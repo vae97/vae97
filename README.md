@@ -18,3 +18,6 @@
 ### Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=vae97&&show_icons=true&title_color=ffffff&icon_color=87F7CF&text_color=daf7dc&bg_color=058E5C">
+
+### Languages and Frameworks
+
