@@ -2,11 +2,11 @@
 
 ### Who am I ?
 
-- 🔭 I’m currently working on You-Write and Travel-Today. (Github)
-- 🌱 I’m currently learning React with Bootstrap and Material-UI.
-- 👯 I’m looking to collaborate on Web and Mobile Front-End Development.
+- 🖥️ I’m currently working on You-Write and Travel-Today. (Github)
+- 📗 I’m currently learning React with Bootstrap and Material-UI.
+- 👍 I’m looking to collaborate on Web and Mobile Front-End Development.
 - 💬 Ask me about anything!
-- 😄 Pronouns: He 😄✨
+- 😄 Pronouns: He 😎
 - ⚡ Fun fact: Computers are good at following instructions, but not at Reading your mind.
 
 <!--
