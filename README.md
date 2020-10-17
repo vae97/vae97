@@ -2,6 +2,7 @@
 
 ### Who am I ?
 
+- 🎓 Science Undergraduate (University of Colombo faculty of Science)
 - 🖥️ I’m currently working on You-Write and Travel-Today. (Github)
 - 📗 I’m currently learning React with Bootstrap and Material-UI.
 - 👍 I’m looking to collaborate on Web and Mobile Front-End Development.
