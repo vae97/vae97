@@ -17,7 +17,7 @@
 
 ### Github Stats
 <a href="https://github.com/vae97">
-<img src="https://github-readme-stats.vercel.app/api?username=vae97=react&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=vae97&theme=react&show_icons=true">
 </a>
 
 ### Most Used Languages
