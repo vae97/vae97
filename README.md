@@ -18,6 +18,10 @@
 ### Github Stats
 <a href="https://github.com/vae97">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vae97&theme=react&show_icons=true">
+</a>
+
+### Most Used Languages
+<a href="https://github.com/vae97">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vae97&theme=react&layout=compact">
 </a>
 
