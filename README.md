@@ -9,7 +9,7 @@
 - 💬 Ask me about anything!
 - 😄 Pronouns: He 😎
 - 💻 Interests: Reverse engineering and Assembly language **0xffffffff** ❣️
-- ⚡ Fun fact: Computers are good at following instructions, but not at Reading your mind.
+- ⚡ Fun fact: **Computers are good at following instructions, but not at Reading your mind.** 🧠
 
 <!--
 **vae97/vae97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
