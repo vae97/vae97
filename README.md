@@ -48,3 +48,9 @@
   ![Parrot Os](https://img.shields.io/badge/GNU%2FLinux-Parrot%20OS-green)
   ![Ubuntu](https://img.shields.io/badge/Debian%2FLinux-Ubuntu-orange)
   ![Kali Linux](https://img.shields.io/badge/Debian%2FLinux-Kali%20Linux-blue)
+  
+  ## Profiles
+  
+  <a href="https://dev.to/vae97">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="R.M.V.Akash Ekanayaka's DEV Community Profile" height="10%" width="10%">
+  </a>
