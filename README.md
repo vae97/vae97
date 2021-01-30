@@ -1,13 +1,13 @@
-## Who am I ?
+# Who am I ?
 
 <img src="https://github.com/vae97/vae97/blob/main/ZRGKVL57RA3X4KQS.gif" width=100%>
 
 <h1> <b> “ I am always ready to learn although I do not always like being taught.... ” </b></h1>
 <h3> <b> – Winston Churchill - </b></h3>
 
-## Career & Interests
+# Career & Interests
 
-<img src="https://github.com/vae97/vae97/blob/main/H6T56UAZRYTAXAJA.gif" width=100%>
+<img src="https://github.com/vae97/vae97/blob/main/FRR69DZDJG8T0QI1.gif" width=100%>
 
 <!--
 **vae97/vae97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
