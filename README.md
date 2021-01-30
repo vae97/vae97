@@ -2,6 +2,7 @@
 
 <img src="https://github.com/vae97/vae97/blob/main/ZRGKVL57RA3X4KQS.gif" width=100%>
 
+## Quote of the Day !!!
 <p> <b> “ I am always ready to learn although I do not always like being taught.... ” </b></p>
 <p> <b> – Winston Churchill - </b></p>
 
