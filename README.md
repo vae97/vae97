@@ -10,6 +10,12 @@
 
 <img src="https://github.com/vae97/vae97/blob/main/FRR69DZDJG8T0QI1.gif" width=100%>
 
+
+<p> <b> ✨Studied at Faculty of Science University of Colombo. <br>
+        ✨Curently learning React-JS, Material-UI. <br>
+        ✨Learning python with Open CV. <br>
+        ✨Looking for collaborate on Web Development and Mobile App Development.
+  </b></p>
 <!--
 **vae97/vae97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
