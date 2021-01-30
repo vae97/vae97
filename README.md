@@ -2,6 +2,8 @@
 
 <img src="https://github.com/vae97/vae97/blob/main/ZRGKVL57RA3X4KQS.gif" width=100%>
 
+# “ I am always ready to learn although I do not always like being taught.... ”
+
 ## Career & Interests
 
 <img src="https://github.com/vae97/vae97/blob/main/H6T56UAZRYTAXAJA.gif" width=100%>
