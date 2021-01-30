@@ -50,6 +50,8 @@
   
   ### Favourite Operating Systems.
   
+  <img src="https://github.com/vae97/vae97/blob/main/O30R9JUFXOCVNS0J.gif" width=100%> <br>
+  
   ![Windows](https://img.shields.io/badge/Microsoft-Windows%2010-blue)
   ![Parrot Os](https://img.shields.io/badge/GNU%2FLinux-Parrot%20OS-green)
   ![Ubuntu](https://img.shields.io/badge/Debian%2FLinux-Ubuntu-orange)
