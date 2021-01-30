@@ -3,6 +3,7 @@
 <img src="https://github.com/vae97/vae97/blob/main/ZRGKVL57RA3X4KQS.gif" width=100%>
 
 <h1> <b> “ I am always ready to learn although I do not always like being taught.... ” </b></h1>
+<p> <b> – Winston Churchill - </b></p>
 
 ## Career & Interests
 
