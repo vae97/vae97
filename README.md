@@ -2,16 +2,9 @@
 
 <img src="https://github.com/vae97/vae97/blob/main/ZRGKVL57RA3X4KQS.gif" width="95%">
 
-### Who am I ?
+## Career & Interests
 
-- 🎓 Science Undergraduate (University of Colombo faculty of Science)
-- 🖥️ I’m currently working on You-Write and Travel-Today. (Github)
-- 📗 I’m currently learning React with Bootstrap and Material-UI.
-- 👍 I’m looking to collaborate on Web and Mobile Front-End Development.
-- 💬 Ask me about anything!
-- 😄 Pronouns: He 😎
-- 💻 Interests: Reverse engineering and Assembly language **0xffffffff** ❣️
-- ⚡ Fun fact: **Computers are good at following instructions, but not at Reading your mind.** 🧠
+<img src="https://github.com/vae97/vae97/blob/main/H6T56UAZRYTAXAJA.gif" width="95%">
 
 <!--
 **vae97/vae97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
