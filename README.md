@@ -57,6 +57,9 @@
   ![Ubuntu](https://img.shields.io/badge/Debian%2FLinux-Ubuntu-orange)
   ![Kali Linux](https://img.shields.io/badge/Debian%2FLinux-Kali%20Linux-blue)
   
+  ## Holopin
+  [![@vae97's Holopin board](https://holopin.io/api/user/board?user=vae97)](https://holopin.io/@vae97)
+  
   ## Profiles
   
   <a href="https://dev.to/vae97">
